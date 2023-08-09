@@ -40,7 +40,7 @@ Sino estaremos escribiendo texto plano, aunque a niveles de las herramientas (al
 
 ## Ejemplo del Libro
 
-:heavy_exclamation_mark:**Todo esto se hizo desde bash**
+❗: **Todo esto se hizo desde bash**  
 Pondremos el siguiente código en un archivo que se llame 
 ```
 "Calc.cf"
