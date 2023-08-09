@@ -1,5 +1,5 @@
 # setupLYC
-:heavy_exclamation_mark:**Esta guía no es definitiva, puede haber (es muy probable que lo haya) más de una forma de hacer una instalación teniendo el mismo efecto. Utilizá la manera en la que te sientas más comodo**
+❗**Esta guía no es definitiva, puede haber (es muy probable que lo haya) más de una forma de hacer una instalación teniendo el mismo efecto. Utilizá la manera en la que te sientas más comodo**
 
 ## Instalación de GHCup en Linux
 Antes de cualquier cosa, es necesario tener instalado Haskell (y todos los paquetes que este trae, en especial cabal o stack). Para hacer esto simplemente ir a este [link](https://www.haskell.org/ghcup/)
